@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://siaslas98.github.io',
+  site: 'https://siaslas.github.io',
   base: '/',
     devToolbar: {
         enabled: false,
